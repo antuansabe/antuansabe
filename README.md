@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Dromundo</h1>
-<h3 align="center">A passionate frontend developer from Mexico city</h3>
+<h3 align="center">A passionate Frontend Developer from Mexico city</h3>
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
