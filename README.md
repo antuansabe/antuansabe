@@ -7,8 +7,6 @@ I decided to pursue my passion for coding and the web in Platzi Master, an inten
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
-- 💬 Ask me about **React,Sass,Css**
-
 - 📫 How to reach me **antuansabe@gmail.com**
 
 -  Fun fact **When Im not coding im reading philosophy** 
