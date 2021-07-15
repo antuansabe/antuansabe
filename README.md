@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Dromundo</h1>
+<h1 align="center">Hi! , I'm Antonio Dromundo</h1>
 <h3 align="center">A passionate Frontend Developer from Mexico city</h3>
 
 ![banner_mee](https://user-images.githubusercontent.com/72485462/125398794-60399f80-e375-11eb-9c51-a85669b332fe.gif)
