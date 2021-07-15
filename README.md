@@ -3,6 +3,7 @@
 
 ![banner_mee](https://user-images.githubusercontent.com/72485462/125398794-60399f80-e375-11eb-9c51-a85669b332fe.gif)
 
+I decided to pursue my passion for coding and the web in Platzi Master, an intensive program in which I created various projects focused on creating server-side rendering web applications and using technologies such as React, Sass, Less, code versioning in Git , deployment of projects on Github, Netlify, Vercel and methodologies such as SCRUM.
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
@@ -10,7 +11,14 @@
 
 - 📫 How to reach me **antuansabe@gmail.com**
 
-- ⚡ Fun fact **When Im not coding im reading philosophy**
+-  Fun fact **When Im not coding im reading philosophy** 
+
+
+ - ⚡ React 
+ - ⚡ Vue
+ - ⚡ Javascript
+ - ⚡ Sass
+ - ⚡ Less
 
 
 <h3 align="left">Languages and Tools:</h3>
