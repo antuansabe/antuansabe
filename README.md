@@ -14,7 +14,7 @@ I decided to pursue my passion for coding and the web in Platzi Master, an inten
 -  Fun fact **When Im not coding im reading philosophy** 
 
 
- - ⚡ React ⚡ Vue ⚡ Javascript ⚡ Sass ⚡ Less
+ - ⚡ React ⚡ Vue ⚡ Javascript ⚡ Sass ⚡ Less ⚡ Figma ⚡ Adobe xD
 
 
 <h3 align="left">Languages and Tools:</h3>
