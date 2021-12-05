@@ -7,12 +7,14 @@ I decided to pursue my passion for coding and the web in Platzi Master, an inten
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
+-  I’m currently working at ONG **Ashoka.org**
+
 - 📫 How to reach me **antuansabe@gmail.com**
 
 -  Fun fact **When Im not coding im reading philosophy** 
 
 
- - ⚡ React ⚡ Vue ⚡ Javascript ⚡ Sass ⚡ Less ⚡ Figma ⚡ Adobe xD
+ - ⚡ React ⚡ Angular ⚡ Javascript ⚡ Sass ⚡ Less ⚡ Drupal ⚡ PHP
 
 
 <h3 align="left">Languages and Tools:</h3>
