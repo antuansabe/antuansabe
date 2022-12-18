@@ -5,7 +5,7 @@
 
 I decided to pursue my passion for coding and the web in Platzi Master, an intensive program in which I created various projects focused on creating server-side rendering web applications and using technologies such as React, Sass, Less, code versioning in Git , deployment of projects on Github, Netlify, Vercel and methodologies such as SCRUM.
 
-- 🌱 I’m currently learning at **Plazi Master Program**
+- 🌱 Graduated of **Plazi Master Program**
 
 -  I’m currently working at ONG **Ashoka.org**
 
